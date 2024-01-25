@@ -1,0 +1,2 @@
+
+scale_sets = {'orient':'horizontal', 'label':'transparency', 'cursor':'arrow', 'from_':'10', 'bg':'black', 'activebackground':'purple', 'fg':'white', 'highlightbackground':'black' ,'troughcolor':'red'}
